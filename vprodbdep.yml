@@ -38,4 +38,4 @@ spec:
           # This AWS EBS volume must already exist.
           awsElasticBlockStore:
              volumeID: vol-09598a44464981f24
-             fsType: ext
+             fsType: ext4
